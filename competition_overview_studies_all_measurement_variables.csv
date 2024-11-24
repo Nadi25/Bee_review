@@ -1,0 +1,58 @@
+﻿number;impact;effect;native_range;country;habitat;author;year;measurement_variable_1;measurement_variable_2;measurement_variable_3;measurement_variable_4;abundance;visitation_rates/frequency;species_diversity/richness;reproduction;interspecific_interaction;density;visit_duration;Thorax_width/tongue_length/body_weight;Plant_pollinator_network
+1;Negative;2;No;USA;wild;Schaffer et al.;1979;Abundance ;;;;Yes;No;No;No;No;No;No;No;No
+2;Negative;2;No;Argentina;wild;Aizen & Feinsinger;1994;Abundance ;Visitation rate;Diversity;;Yes;Yes;Yes;No;No;No;No;No;No
+3;Neutral;1;Yes;Austria;wild/agriculture;Pechhacker & Zeilinger;1994;Reproduction;;;;No;No;No;Yes;No;No;No;No;No
+4;Negative;2;No;USA;agriculture;Connor & Neumeier;1995;Abundance ;Visitation rate;;;Yes;Yes;No;No;No;No;No;No;No
+5;Mixed;3;No;Australia;wild;Gross & Mackay;1998;Visitation rate;Interspecific interactions;;;No;Yes;No;No;Yes;No;No;No;No
+6;Negative;2;No;Bonin Islands;wild;Kato et al.;1999;Abundance ;;;;Yes;No;No;No;No;No;No;No;No
+7;Neutral;1;Yes;Germany;wild/agriculture;Steffan-Dewenter & Tscharntke;2000;Abundance ;Species richness ;Reproduction;;Yes;No;Yes;Yes;No;No;No;No;No
+8;Negative;2;No;Australia;wild;Gross;2001;Abundance ;Visitation rate;;;Yes;Yes;No;No;No;No;No;No;No
+9;Neutral;1;No;Panama;wild;Roubik & Wolda;2001;Abundance ;;;;Yes;No;No;No;No;No;No;No;No
+10;Negative;2;No;Tasmania;wild;Goulson et al.;2002;Abundance ;Diversity;Floral preferences;;Yes;No;Yes;No;No;No;No;No;No
+11;Negative;2;No;Tenerife, Canary Islands;wild;Dupont et al.;2003;Abundance ;Visitation rate;;;Yes;Yes;No;No;No;No;No;No;No
+12;Negative;2;No;USA;wild;Thomson;2004;Abundance ;Visitation rate;Reproduction;;Yes;Yes;No;Yes;No;No;No;No;No
+13;Mixed;3;Yes;Kenya;wild;Martins;2004;Visitation rate;Diversity;Interspecific interactions;;No;Yes;Yes;No;Yes;No;No;No;No
+14;Negative;2;No;Australia;wild;Paini & Roberts;2005;Reproduction;;;;No;No;No;Yes;No;No;No;No;No
+15;Mixed;3;Yes;UK;wild;Forup & Memmot;2005;Abundance ;Diversity;;;Yes;No;Yes;No;No;No;No;No;No
+16;Mixed;3;No;Mexico;agriculture;Pinkus-Rendon et al.;2005;Abundance ;Interspecific interactions;;;Yes;No;No;No;Yes;No;No;No;No
+17;Negative;2;Yes;Germany;wild/agriculture;Walther-Hellwig et al.;2006;Abundance ;;;;Yes;No;No;No;No;No;No;No;No
+18;Neutral;1;Yes;Germany;wild;Kühn et al.;2006;Abundance ;Reproduction;Visitation frequency;;Yes;Yes;No;Yes;No;No;No;No;No
+19;Negative;2;Yes;Austria;wild;Neumayer;2006;Abundance ;Density;;;Yes;No;No;No;No;Yes;No;No;No
+20;Mixed;3;No;USA;agriculture;Tependino et al.;2007;Abundance ;Visitation rate;Diversity;;Yes;Yes;Yes;No;No;No;No;No;No
+21;Negative;2;Yes;Scotland;agriculture;Goulson & Sparrow;2009;Abundance ;Reproduction;Thorax width (Colony success);;Yes;No;No;Yes;No;No;No;Yes;No
+22;Mixed;3;Yes;Israel;wild;Shavit et al.;2009;Visitation frequency;;;;No;Yes;No;No;No;No;No;No;No
+23;Mixed;3;No;USA;agriculture;Artz et al.;2011;Abundance ;Visitation rate;;;Yes;Yes;No;No;No;No;No;No;No
+24;Mixed;3;Yes;Germany ;wild;Hudenwenz & Klein;2013;Visitation rate;Reproduction;;;No;Yes;No;Yes;No;No;No;No;No
+25;Negative;2;Yes;UK;agriculture;Elbgami et al.;2014;Reproduction;;;;No;No;No;Yes;No;No;No;No;No
+26;Negative;2;Yes;Germany;cage;Hudewenz & Klein;2015;Visitation rate;Reproduction;Interspecific interactions;;No;Yes;No;Yes;Yes;No;No;No;No
+27;Neutral;1;Yes;UK;agriculture;Balfour et al.;2015;Visitation rate;;;;No;Yes;No;No;No;No;No;No;No
+28;Mixed;3;Yes;Sweden;agriculture;Herbertsson et al.;2016;Abundance ;Density;;;Yes;No;No;No;No;Yes;No;No;No
+29;Negative;2;Yes;Sweden;agriculture;Lindström et al.;2016;Density;;;;No;No;No;No;No;Yes;No;No;No
+30;Neutral;1;Yes;Greece;wild;Goras et al.;2016;Visitation frequency;Visit duration;;;No;Yes;No;No;No;No;No;No;No
+31;Negative;2;Yes;France;wild;Henry & Rodet;2018;Visitation rate;Nectar foraging success;;;No;Yes;No;No;No;No;No;No;No
+32;Negative;2;No;Hawaii;wild;Ing & Mogren;2020;Visitation frequency;Visit duration;;;No;Yes;No;No;No;No;Yes;No;No
+33;Mixed;3;Yes;UK;agriculture;Wignall et al.;2020;Visitation rate;;;;No;Yes;No;No;No;No;No;No;No
+34;Negative;2;No;Brazil;agriculture;Geribaldi et al.;2021;Abundance ;Species richness ;;;Yes;No;Yes;No;No;No;No;No;No
+35;Negative;2;Yes;Germany;botanical garden;Renner et al.;2021;Abundance ;;;;Yes;No;No;No;No;No;No;No;No
+36;Negative;2;No;USA;agriculture;Angelella et al.;2021;Abundance ;Species richness ;;;Yes;No;Yes;No;No;No;No;No;No
+37;Negative;2;No;Indonesia;agriculture;Widhiono et al.;2022;Abundance ;Diversity;;;Yes;No;Yes;No;No;No;No;No;No
+38;Negative;2;No;USA;wild;Thomson;2016;Abundance ;Density;;;Yes;No;No;No;No;Yes;No;No;No
+39;Negative;2;No;Mexico;agriculture;Badano et al.;2011;Diversity;Visitation rate;;;No;Yes;Yes;No;No;No;No;No;No
+40;Neutral;1;Yes;UK;agriculture;Balfour et al.;2013;Visitation rate;Tongue length;;;No;Yes;No;No;No;No;No;Yes;No
+41;Mixed;3;No;USA;wild;Thomson;2006;Abundance ;;;;Yes;No;No;No;No;No;No;No;No
+42;Mixed;3;Yes;Europe;wild;Nielsen et al.;2012;Visitation frequency;;;;No;Yes;No;No;No;No;No;No;No
+43;Neutral;1;No;Australia;wild;Paini et al.;2005;Density;Reproduction;;;No;No;No;Yes;No;Yes;No;No;No
+44;Neutral;1;No;Brazil;wild;Pedro & Camargo;1991;Abundance ;;;;Yes;No;No;No;No;No;No;No;No
+45;Neutral;1;No;Brazil;wild;Pick & Schlindwein;2011;Visitation rate;;;;No;Yes;No;No;No;No;No;No;No
+46;Negative;2;No;USA;wild;Pleasants;1981;Abundance ;Density;;;Yes;No;No;No;No;Yes;No;No;No
+47;Negative;2;No;USA;artificial plants;Rogers et al.;2013;Interspecific interactions;Density;;;No;No;No;No;Yes;Yes;No;No;No
+48;Mixed;3;Yes;Egypt;wild;Semida & Elbanna;2006;Abundance ;;;;Yes;No;No;No;No;No;No;No;No
+49;Neutral;1;No;Mexico;wild;Roubik & Villanueva-Gutierrez;2009;Abundance ;Reproduction;;;Yes;No;No;Yes;No;No;No;No;No
+50;Negative;2;No;Chile;wild;Smith-Ramirez et al.;2014;Abundance ;Species richness ;Visitation frequency;;Yes;Yes;Yes;No;No;No;No;No;No
+51;Mixed;3;No;Australia;wild;Sudgen & Pyke;1991;Density;Reproduction;;;No;No;No;Yes;No;Yes;No;No;No
+52;Mixed;3;Yes;Spain;wild;Torne-Noguerra et al.;2016;Abundance ;Visitation rate;Species richness ;Body weight;Yes;Yes;Yes;No;No;No;No;Yes;No
+53;Negative;2;No;New Zealand;wild;Murphy & Robertson;2000;Abundance ;Diversity;;;Yes;Yes;No;No;No;No;No;No;No
+54;Negative;2;No;Tenerife, Canary Islands;wild;Valido et al.;2019;Visitation rate;Diversity;Presence/absence;Network;No;Yes;Yes;No;No;No;No;No;Yes
+55;Mixed;3;No;USA;wild;Hung et al.;2019;Visitation rate;Network;;;No;Yes;No;No;No;No;No;No;Yes
+56;Mixed;3;Yes;France;wild;Ropars et al.;2020;Abundance ;Species richness ;;;Yes;No;Yes;No;No;No;No;No;No
+57;Negative;2;Yes;France;urban;Ropars et al.;2019;Visitation rate;Network;;;No;Yes;No;No;No;No;No;No;Yes
